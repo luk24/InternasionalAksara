@@ -67,7 +67,42 @@
       "category": "Lainnya",
       "title": "10",
       "image_link": "frame/frame10.webp"
+    },   
+    {
+      "id": 11,
+      "category": "Lainnya",
+      "title": "11",
+      "image_link": "https://github.com/luk24/InternasionalAksara/raw/main/frame11.png"
+    },
+        {
+      "id": 12,
+      "category": "Lainnya",
+      "title": "12",
+      "image_link": "https://github.com/luk24/InternasionalAksara/raw/main/frame12.png"
+    },
+    {
+      "id": 13,
+      "category": "Lainnya",
+      "title": "13",
+      "image_link": "https://github.com/luk24/InternasionalAksara/raw/main/frame13.png"
+    },
+    {
+      "id": 14,
+      "category": "Lainnya",
+      "title": "14",
+      "image_link": "https://github.com/luk24/InternasionalAksara/raw/main/frame14.png"
+    },
+        {
+      "id": 15,
+      "category": "Lainnya",
+      "title": "15",
+      "image_link": "https://github.com/luk24/InternasionalAksara/raw/main/frame15.png"
+    },
+      {
+      "id": 16,
+      "category": "Lainnya",
+      "title": "16",
+      "image_link": "https://github.com/luk24/InternasionalAksara/raw/main/frame16.png"
     }
-
   ]
 }
